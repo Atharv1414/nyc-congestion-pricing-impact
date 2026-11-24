@@ -1,0 +1,823 @@
+file_month,status,vendor_id,trips
+2023-01,1 pickup outside the file month,2,48
+2023-01,2 unknown or out-of-city zone,1,11314
+2023-01,2 unknown or out-of-city zone,2,46929
+2023-01,"3 refund, void or zero fare",1,482
+2023-01,"3 refund, void or zero fare",2,24564
+2023-01,"4 no charge, dispute or unknown",1,12171
+2023-01,"4 no charge, dispute or unknown",2,18623
+2023-01,5 zero or negative duration,1,65
+2023-01,5 zero or negative duration,2,16
+2023-01,6 under 1 minute or over 3 hours,1,3535
+2023-01,6 under 1 minute or over 3 hours,2,17877
+2023-01,7 under 0.2 or over 60 miles,1,14606
+2023-01,7 under 0.2 or over 60 miles,2,10418
+2023-01,8 implausible speed,1,345
+2023-01,8 implausible speed,2,204
+2023-01,kept: flex fare (upfront price),1,17207
+2023-01,kept: flex fare (upfront price),2,46167
+2023-01,kept: metered,1,767642
+2023-01,kept: metered,2,2074553
+2023-02,1 pickup outside the file month,2,55
+2023-02,2 unknown or out-of-city zone,1,11541
+2023-02,2 unknown or out-of-city zone,2,40688
+2023-02,2 unknown or out-of-city zone,6,1201
+2023-02,"3 refund, void or zero fare",1,474
+2023-02,"3 refund, void or zero fare",2,24337
+2023-02,"4 no charge, dispute or unknown",1,11606
+2023-02,"4 no charge, dispute or unknown",2,18379
+2023-02,5 zero or negative duration,1,75
+2023-02,5 zero or negative duration,2,17
+2023-02,6 under 1 minute or over 3 hours,1,3282
+2023-02,6 under 1 minute or over 3 hours,2,16622
+2023-02,7 under 0.2 or over 60 miles,1,11489
+2023-02,7 under 0.2 or over 60 miles,2,10080
+2023-02,8 implausible speed,1,241
+2023-02,8 implausible speed,2,190
+2023-02,kept: flex fare (upfront price),1,15973
+2023-02,kept: flex fare (upfront price),2,53828
+2023-02,kept: metered,1,733156
+2023-02,kept: metered,2,1960721
+2023-03,1 pickup outside the file month,2,189
+2023-03,2 unknown or out-of-city zone,1,13765
+2023-03,2 unknown or out-of-city zone,2,37710
+2023-03,2 unknown or out-of-city zone,6,1928
+2023-03,"3 refund, void or zero fare",1,619
+2023-03,"3 refund, void or zero fare",2,29409
+2023-03,"4 no charge, dispute or unknown",1,14224
+2023-03,"4 no charge, dispute or unknown",2,22052
+2023-03,5 zero or negative duration,1,69
+2023-03,5 zero or negative duration,2,24
+2023-03,6 under 1 minute or over 3 hours,1,3705
+2023-03,6 under 1 minute or over 3 hours,2,19926
+2023-03,7 under 0.2 or over 60 miles,1,15015
+2023-03,7 under 0.2 or over 60 miles,2,10432
+2023-03,8 implausible speed,1,381
+2023-03,8 implausible speed,2,347
+2023-03,kept: flex fare (upfront price),1,17790
+2023-03,kept: flex fare (upfront price),2,60500
+2023-03,kept: metered,1,877090
+2023-03,kept: metered,2,2278591
+2023-04,1 pickup outside the file month,2,95
+2023-04,2 unknown or out-of-city zone,1,11957
+2023-04,2 unknown or out-of-city zone,2,42331
+2023-04,2 unknown or out-of-city zone,6,438
+2023-04,"3 refund, void or zero fare",1,515
+2023-04,"3 refund, void or zero fare",2,29631
+2023-04,"4 no charge, dispute or unknown",1,13255
+2023-04,"4 no charge, dispute or unknown",2,22147
+2023-04,5 zero or negative duration,1,59
+2023-04,5 zero or negative duration,2,28
+2023-04,6 under 1 minute or over 3 hours,1,3492
+2023-04,6 under 1 minute or over 3 hours,2,19821
+2023-04,7 under 0.2 or over 60 miles,1,10635
+2023-04,7 under 0.2 or over 60 miles,2,7640
+2023-04,8 implausible speed,1,315
+2023-04,8 implausible speed,2,305
+2023-04,kept: flex fare (upfront price),1,17304
+2023-04,kept: flex fare (upfront price),2,68542
+2023-04,kept: metered,1,826428
+2023-04,kept: metered,2,2213312
+2023-05,1 pickup outside the file month,2,50
+2023-05,2 unknown or out-of-city zone,1,13059
+2023-05,2 unknown or out-of-city zone,2,45124
+2023-05,2 unknown or out-of-city zone,6,416
+2023-05,"3 refund, void or zero fare",1,504
+2023-05,"3 refund, void or zero fare",2,31804
+2023-05,"4 no charge, dispute or unknown",1,14063
+2023-05,"4 no charge, dispute or unknown",2,23818
+2023-05,5 zero or negative duration,1,49
+2023-05,5 zero or negative duration,2,43
+2023-05,6 under 1 minute or over 3 hours,1,4026
+2023-05,6 under 1 minute or over 3 hours,2,21138
+2023-05,7 under 0.2 or over 60 miles,1,12150
+2023-05,7 under 0.2 or over 60 miles,2,10350
+2023-05,8 implausible speed,1,414
+2023-05,8 implausible speed,2,383
+2023-05,kept: flex fare (upfront price),1,19769
+2023-05,kept: flex fare (upfront price),2,76411
+2023-05,kept: metered,1,866753
+2023-05,kept: metered,2,2373325
+2023-06,1 pickup outside the file month,2,41
+2023-06,2 unknown or out-of-city zone,1,13976
+2023-06,2 unknown or out-of-city zone,2,42033
+2023-06,2 unknown or out-of-city zone,6,1113
+2023-06,"3 refund, void or zero fare",1,436
+2023-06,"3 refund, void or zero fare",2,31096
+2023-06,"4 no charge, dispute or unknown",1,14448
+2023-06,"4 no charge, dispute or unknown",2,23060
+2023-06,5 zero or negative duration,1,49
+2023-06,5 zero or negative duration,2,39
+2023-06,6 under 1 minute or over 3 hours,1,3884
+2023-06,6 under 1 minute or over 3 hours,2,19859
+2023-06,7 under 0.2 or over 60 miles,1,13264
+2023-06,7 under 0.2 or over 60 miles,2,11144
+2023-06,8 implausible speed,1,388
+2023-06,8 implausible speed,2,373
+2023-06,kept: flex fare (upfront price),1,19109
+2023-06,kept: flex fare (upfront price),2,71952
+2023-06,kept: metered,1,807835
+2023-06,kept: metered,2,2233135
+2023-07,1 pickup outside the file month,2,59
+2023-07,2 unknown or out-of-city zone,1,13276
+2023-07,2 unknown or out-of-city zone,2,38624
+2023-07,2 unknown or out-of-city zone,6,724
+2023-07,"3 refund, void or zero fare",1,444
+2023-07,"3 refund, void or zero fare",2,30774
+2023-07,"4 no charge, dispute or unknown",1,13102
+2023-07,"4 no charge, dispute or unknown",2,22644
+2023-07,5 zero or negative duration,1,51
+2023-07,5 zero or negative duration,2,59
+2023-07,6 under 1 minute or over 3 hours,1,3744
+2023-07,6 under 1 minute or over 3 hours,2,18436
+2023-07,7 under 0.2 or over 60 miles,1,17898
+2023-07,7 under 0.2 or over 60 miles,2,9571
+2023-07,8 implausible speed,1,337
+2023-07,8 implausible speed,2,291
+2023-07,kept: flex fare (upfront price),1,14367
+2023-07,kept: flex fare (upfront price),2,57589
+2023-07,kept: metered,1,677954
+2023-07,kept: metered,2,1987164
+2023-08,1 pickup outside the file month,2,34
+2023-08,2 unknown or out-of-city zone,1,13552
+2023-08,2 unknown or out-of-city zone,2,35821
+2023-08,2 unknown or out-of-city zone,6,621
+2023-08,"3 refund, void or zero fare",1,438
+2023-08,"3 refund, void or zero fare",2,30805
+2023-08,"4 no charge, dispute or unknown",1,12183
+2023-08,"4 no charge, dispute or unknown",2,22882
+2023-08,5 zero or negative duration,1,68
+2023-08,5 zero or negative duration,2,48
+2023-08,6 under 1 minute or over 3 hours,1,3602
+2023-08,6 under 1 minute or over 3 hours,2,17694
+2023-08,7 under 0.2 or over 60 miles,1,25792
+2023-08,7 under 0.2 or over 60 miles,2,8944
+2023-08,8 implausible speed,1,318
+2023-08,8 implausible speed,2,255
+2023-08,kept: flex fare (upfront price),1,13769
+2023-08,kept: flex fare (upfront price),2,53637
+2023-08,kept: metered,1,647258
+2023-08,kept: metered,2,1936488
+2023-09,1 pickup outside the file month,2,32
+2023-09,2 unknown or out-of-city zone,1,14236
+2023-09,2 unknown or out-of-city zone,2,34608
+2023-09,2 unknown or out-of-city zone,6,852
+2023-09,"3 refund, void or zero fare",1,422
+2023-09,"3 refund, void or zero fare",2,29148
+2023-09,"4 no charge, dispute or unknown",1,11326
+2023-09,"4 no charge, dispute or unknown",2,21472
+2023-09,5 zero or negative duration,1,105
+2023-09,5 zero or negative duration,2,27
+2023-09,6 under 1 minute or over 3 hours,1,3806
+2023-09,6 under 1 minute or over 3 hours,2,17223
+2023-09,7 under 0.2 or over 60 miles,1,66667
+2023-09,7 under 0.2 or over 60 miles,2,10993
+2023-09,8 implausible speed,1,538
+2023-09,8 implausible speed,2,803
+2023-09,kept: flex fare (upfront price),1,17409
+2023-09,kept: flex fare (upfront price),2,59019
+2023-09,kept: metered,1,617459
+2023-09,kept: metered,2,1940577
+2023-10,1 pickup outside the file month,2,53
+2023-10,2 unknown or out-of-city zone,1,18022
+2023-10,2 unknown or out-of-city zone,2,37996
+2023-10,2 unknown or out-of-city zone,6,502
+2023-10,"3 refund, void or zero fare",1,447
+2023-10,"3 refund, void or zero fare",2,36730
+2023-10,"4 no charge, dispute or unknown",1,13758
+2023-10,"4 no charge, dispute or unknown",2,27092
+2023-10,5 zero or negative duration,1,158
+2023-10,5 zero or negative duration,2,24
+2023-10,6 under 1 minute or over 3 hours,1,4363
+2023-10,6 under 1 minute or over 3 hours,2,21295
+2023-10,7 under 0.2 or over 60 miles,1,83156
+2023-10,7 under 0.2 or over 60 miles,2,12893
+2023-10,8 implausible speed,1,507
+2023-10,8 implausible speed,2,989
+2023-10,kept: flex fare (upfront price),1,19665
+2023-10,kept: flex fare (upfront price),2,56477
+2023-10,kept: metered,1,764387
+2023-10,kept: metered,2,2423771
+2023-11,1 pickup outside the file month,2,31
+2023-11,2 unknown or out-of-city zone,1,17452
+2023-11,2 unknown or out-of-city zone,2,32305
+2023-11,2 unknown or out-of-city zone,6,454
+2023-11,"3 refund, void or zero fare",1,479
+2023-11,"3 refund, void or zero fare",2,36651
+2023-11,"4 no charge, dispute or unknown",1,13377
+2023-11,"4 no charge, dispute or unknown",2,27099
+2023-11,5 zero or negative duration,1,346
+2023-11,5 zero or negative duration,2,560
+2023-11,6 under 1 minute or over 3 hours,1,3800
+2023-11,6 under 1 minute or over 3 hours,2,20186
+2023-11,7 under 0.2 or over 60 miles,1,67795
+2023-11,7 under 0.2 or over 60 miles,2,12246
+2023-11,8 implausible speed,1,560
+2023-11,8 implausible speed,2,1037
+2023-11,kept: flex fare (upfront price),1,20027
+2023-11,kept: flex fare (upfront price),2,48885
+2023-11,kept: metered,1,727608
+2023-11,kept: metered,2,2308817
+2023-12,1 pickup outside the file month,2,43
+2023-12,2 unknown or out-of-city zone,1,17623
+2023-12,2 unknown or out-of-city zone,2,20937
+2023-12,2 unknown or out-of-city zone,6,419
+2023-12,"3 refund, void or zero fare",1,497
+2023-12,"3 refund, void or zero fare",2,42455
+2023-12,"4 no charge, dispute or unknown",1,14558
+2023-12,"4 no charge, dispute or unknown",2,29615
+2023-12,5 zero or negative duration,1,91
+2023-12,5 zero or negative duration,2,23
+2023-12,6 under 1 minute or over 3 hours,1,4123
+2023-12,6 under 1 minute or over 3 hours,2,22239
+2023-12,7 under 0.2 or over 60 miles,1,36793
+2023-12,7 under 0.2 or over 60 miles,2,14713
+2023-12,8 implausible speed,1,791
+2023-12,8 implausible speed,2,1148
+2023-12,kept: flex fare (upfront price),1,27231
+2023-12,kept: flex fare (upfront price),2,117041
+2023-12,kept: metered,1,743981
+2023-12,kept: metered,2,2282246
+2024-01,1 pickup outside the file month,2,18
+2024-01,2 unknown or out-of-city zone,1,14439
+2024-01,2 unknown or out-of-city zone,2,16825
+2024-01,2 unknown or out-of-city zone,6,260
+2024-01,"3 refund, void or zero fare",1,405
+2024-01,"3 refund, void or zero fare",2,37331
+2024-01,"4 no charge, dispute or unknown",1,11244
+2024-01,"4 no charge, dispute or unknown",2,26766
+2024-01,5 zero or negative duration,1,81
+2024-01,5 zero or negative duration,2,20
+2024-01,6 under 1 minute or over 3 hours,1,3395
+2024-01,6 under 1 minute or over 3 hours,2,18720
+2024-01,7 under 0.2 or over 60 miles,1,28344
+2024-01,7 under 0.2 or over 60 miles,2,11135
+2024-01,8 implausible speed,1,399
+2024-01,8 implausible speed,2,208
+2024-01,kept: flex fare (upfront price),1,25940
+2024-01,kept: flex fare (upfront price),2,88028
+2024-01,kept: metered,1,645485
+2024-01,kept: metered,2,2035581
+2024-02,1 pickup outside the file month,2,15
+2024-02,2 unknown or out-of-city zone,1,13308
+2024-02,2 unknown or out-of-city zone,2,15665
+2024-02,"3 refund, void or zero fare",1,413
+2024-02,"3 refund, void or zero fare",2,40441
+2024-02,"4 no charge, dispute or unknown",1,11316
+2024-02,"4 no charge, dispute or unknown",2,26941
+2024-02,5 zero or negative duration,1,72
+2024-02,5 zero or negative duration,2,24
+2024-02,6 under 1 minute or over 3 hours,1,3529
+2024-02,6 under 1 minute or over 3 hours,2,18083
+2024-02,7 under 0.2 or over 60 miles,1,36817
+2024-02,7 under 0.2 or over 60 miles,2,11773
+2024-02,8 implausible speed,1,349
+2024-02,8 implausible speed,2,207
+2024-02,kept: flex fare (upfront price),1,26089
+2024-02,kept: flex fare (upfront price),2,121630
+2024-02,kept: metered,1,644249
+2024-02,kept: metered,2,2036605
+2024-03,1 pickup outside the file month,2,23
+2024-03,2 unknown or out-of-city zone,1,16870
+2024-03,2 unknown or out-of-city zone,2,18044
+2024-03,2 unknown or out-of-city zone,6,460
+2024-03,"3 refund, void or zero fare",1,456
+2024-03,"3 refund, void or zero fare",2,58540
+2024-03,"4 no charge, dispute or unknown",1,13360
+2024-03,"4 no charge, dispute or unknown",2,33275
+2024-03,5 zero or negative duration,1,140
+2024-03,5 zero or negative duration,2,79
+2024-03,6 under 1 minute or over 3 hours,1,4416
+2024-03,6 under 1 minute or over 3 hours,2,21208
+2024-03,7 under 0.2 or over 60 miles,1,50642
+2024-03,7 under 0.2 or over 60 miles,2,13400
+2024-03,8 implausible speed,1,548
+2024-03,8 implausible speed,2,423
+2024-03,kept: flex fare (upfront price),1,59093
+2024-03,kept: flex fare (upfront price),2,303498
+2024-03,kept: metered,1,722827
+2024-03,kept: metered,2,2265326
+2024-04,1 pickup outside the file month,2,9
+2024-04,2 unknown or out-of-city zone,1,17702
+2024-04,2 unknown or out-of-city zone,2,17764
+2024-04,2 unknown or out-of-city zone,6,293
+2024-04,"3 refund, void or zero fare",1,401
+2024-04,"3 refund, void or zero fare",2,57701
+2024-04,"4 no charge, dispute or unknown",1,12607
+2024-04,"4 no charge, dispute or unknown",2,32574
+2024-04,5 zero or negative duration,1,118
+2024-04,5 zero or negative duration,2,54
+2024-04,6 under 1 minute or over 3 hours,1,3889
+2024-04,6 under 1 minute or over 3 hours,2,21326
+2024-04,7 under 0.2 or over 60 miles,1,9460
+2024-04,7 under 0.2 or over 60 miles,2,13280
+2024-04,8 implausible speed,1,516
+2024-04,8 implausible speed,2,348
+2024-04,kept: flex fare (upfront price),1,88698
+2024-04,kept: flex fare (upfront price),2,297309
+2024-04,kept: metered,1,718494
+2024-04,kept: metered,2,2221746
+2024-05,1 pickup outside the file month,2,33
+2024-05,2 unknown or out-of-city zone,1,18987
+2024-05,2 unknown or out-of-city zone,2,19513
+2024-05,2 unknown or out-of-city zone,6,225
+2024-05,"3 refund, void or zero fare",1,416
+2024-05,"3 refund, void or zero fare",2,61348
+2024-05,"4 no charge, dispute or unknown",1,13921
+2024-05,"4 no charge, dispute or unknown",2,36427
+2024-05,5 zero or negative duration,1,93
+2024-05,5 zero or negative duration,2,28
+2024-05,6 under 1 minute or over 3 hours,1,3722
+2024-05,6 under 1 minute or over 3 hours,2,23168
+2024-05,7 under 0.2 or over 60 miles,1,9783
+2024-05,7 under 0.2 or over 60 miles,2,15691
+2024-05,8 implausible speed,1,503
+2024-05,8 implausible speed,2,461
+2024-05,kept: flex fare (upfront price),1,81906
+2024-05,kept: flex fare (upfront price),2,301301
+2024-05,kept: metered,1,767577
+2024-05,kept: metered,2,2368730
+2024-06,1 pickup outside the file month,2,51
+2024-06,2 unknown or out-of-city zone,1,18830
+2024-06,2 unknown or out-of-city zone,2,19671
+2024-06,2 unknown or out-of-city zone,6,10
+2024-06,"3 refund, void or zero fare",1,399
+2024-06,"3 refund, void or zero fare",2,61777
+2024-06,"4 no charge, dispute or unknown",1,13735
+2024-06,"4 no charge, dispute or unknown",2,36121
+2024-06,5 zero or negative duration,1,90
+2024-06,5 zero or negative duration,2,41
+2024-06,6 under 1 minute or over 3 hours,1,3941
+2024-06,6 under 1 minute or over 3 hours,2,22644
+2024-06,7 under 0.2 or over 60 miles,1,9875
+2024-06,7 under 0.2 or over 60 miles,2,19975
+2024-06,8 implausible speed,1,503
+2024-06,8 implausible speed,2,525
+2024-06,kept: flex fare (upfront price),1,77355
+2024-06,kept: flex fare (upfront price),2,306845
+2024-06,kept: metered,1,714324
+2024-06,kept: metered,2,2232481
+2024-07,1 pickup outside the file month,2,47
+2024-07,2 unknown or out-of-city zone,1,15499
+2024-07,2 unknown or out-of-city zone,2,20587
+2024-07,"3 refund, void or zero fare",1,388
+2024-07,"3 refund, void or zero fare",2,58341
+2024-07,"4 no charge, dispute or unknown",1,13432
+2024-07,"4 no charge, dispute or unknown",2,37411
+2024-07,5 zero or negative duration,1,58
+2024-07,5 zero or negative duration,2,52
+2024-07,6 under 1 minute or over 3 hours,1,3894
+2024-07,6 under 1 minute or over 3 hours,2,21991
+2024-07,7 under 0.2 or over 60 miles,1,9034
+2024-07,7 under 0.2 or over 60 miles,2,14955
+2024-07,8 implausible speed,1,495
+2024-07,8 implausible speed,2,437
+2024-07,kept: flex fare (upfront price),1,53111
+2024-07,kept: flex fare (upfront price),2,207451
+2024-07,kept: metered,1,621793
+2024-07,kept: metered,2,1997927
+2024-08,1 pickup outside the file month,2,51
+2024-08,2 unknown or out-of-city zone,1,14340
+2024-08,2 unknown or out-of-city zone,2,20093
+2024-08,"3 refund, void or zero fare",1,474
+2024-08,"3 refund, void or zero fare",2,57866
+2024-08,"4 no charge, dispute or unknown",1,13329
+2024-08,"4 no charge, dispute or unknown",2,39433
+2024-08,5 zero or negative duration,1,49
+2024-08,5 zero or negative duration,2,28
+2024-08,6 under 1 minute or over 3 hours,1,4054
+2024-08,6 under 1 minute or over 3 hours,2,22741
+2024-08,7 under 0.2 or over 60 miles,1,10076
+2024-08,7 under 0.2 or over 60 miles,2,23744
+2024-08,8 implausible speed,1,543
+2024-08,8 implausible speed,2,506
+2024-08,kept: flex fare (upfront price),1,45369
+2024-08,kept: flex fare (upfront price),2,189537
+2024-08,kept: metered,1,592008
+2024-08,kept: metered,2,1944942
+2024-09,1 pickup outside the file month,2,49
+2024-09,2 unknown or out-of-city zone,1,15049
+2024-09,2 unknown or out-of-city zone,2,20328
+2024-09,2 unknown or out-of-city zone,6,1
+2024-09,"3 refund, void or zero fare",1,496
+2024-09,"3 refund, void or zero fare",2,73315
+2024-09,"3 refund, void or zero fare",6,1
+2024-09,"4 no charge, dispute or unknown",1,14145
+2024-09,"4 no charge, dispute or unknown",2,41512
+2024-09,5 zero or negative duration,1,83
+2024-09,5 zero or negative duration,2,52
+2024-09,5 zero or negative duration,6,29
+2024-09,6 under 1 minute or over 3 hours,1,3932
+2024-09,6 under 1 minute or over 3 hours,2,23901
+2024-09,6 under 1 minute or over 3 hours,6,24
+2024-09,7 under 0.2 or over 60 miles,1,11552
+2024-09,7 under 0.2 or over 60 miles,2,50345
+2024-09,8 implausible speed,1,740
+2024-09,8 implausible speed,2,1302
+2024-09,kept: flex fare (upfront price),1,79941
+2024-09,kept: flex fare (upfront price),2,341276
+2024-09,kept: flex fare (upfront price),6,54
+2024-09,kept: metered,1,701219
+2024-09,kept: metered,2,2253684
+2024-10,1 pickup outside the file month,2,40
+2024-10,2 unknown or out-of-city zone,1,22148
+2024-10,2 unknown or out-of-city zone,2,20459
+2024-10,2 unknown or out-of-city zone,6,1
+2024-10,"3 refund, void or zero fare",1,464
+2024-10,"3 refund, void or zero fare",2,75474
+2024-10,"3 refund, void or zero fare",6,4
+2024-10,"4 no charge, dispute or unknown",1,15196
+2024-10,"4 no charge, dispute or unknown",2,45527
+2024-10,5 zero or negative duration,1,70
+2024-10,5 zero or negative duration,2,35
+2024-10,5 zero or negative duration,6,22
+2024-10,6 under 1 minute or over 3 hours,1,3903
+2024-10,6 under 1 minute or over 3 hours,2,24220
+2024-10,6 under 1 minute or over 3 hours,6,17
+2024-10,7 under 0.2 or over 60 miles,1,16545
+2024-10,7 under 0.2 or over 60 miles,2,44210
+2024-10,8 implausible speed,1,641
+2024-10,8 implausible speed,2,864
+2024-10,kept: flex fare (upfront price),1,62306
+2024-10,kept: flex fare (upfront price),2,275223
+2024-10,kept: flex fare (upfront price),6,31
+2024-10,kept: metered,1,771689
+2024-10,kept: metered,2,2454682
+2024-11,1 pickup outside the file month,2,50
+2024-11,2 unknown or out-of-city zone,1,15711
+2024-11,2 unknown or out-of-city zone,2,17273
+2024-11,"3 refund, void or zero fare",1,479
+2024-11,"3 refund, void or zero fare",2,71627
+2024-11,"3 refund, void or zero fare",6,5
+2024-11,"4 no charge, dispute or unknown",1,14637
+2024-11,"4 no charge, dispute or unknown",2,42478
+2024-11,5 zero or negative duration,1,316
+2024-11,5 zero or negative duration,2,742
+2024-11,5 zero or negative duration,6,49
+2024-11,6 under 1 minute or over 3 hours,1,3952
+2024-11,6 under 1 minute or over 3 hours,2,23140
+2024-11,6 under 1 minute or over 3 hours,6,60
+2024-11,7 under 0.2 or over 60 miles,1,9721
+2024-11,7 under 0.2 or over 60 miles,2,39632
+2024-11,8 implausible speed,1,615
+2024-11,8 implausible speed,2,918
+2024-11,kept: flex fare (upfront price),1,68191
+2024-11,kept: flex fare (upfront price),2,260548
+2024-11,kept: flex fare (upfront price),6,109
+2024-11,kept: metered,1,732918
+2024-11,kept: metered,2,2343198
+2024-12,1 pickup outside the file month,2,34
+2024-12,2 unknown or out-of-city zone,1,15760
+2024-12,2 unknown or out-of-city zone,2,19532
+2024-12,2 unknown or out-of-city zone,6,1
+2024-12,2 unknown or out-of-city zone,7,2
+2024-12,"3 refund, void or zero fare",1,538
+2024-12,"3 refund, void or zero fare",2,78931
+2024-12,"3 refund, void or zero fare",6,10
+2024-12,"4 no charge, dispute or unknown",1,15707
+2024-12,"4 no charge, dispute or unknown",2,48564
+2024-12,"4 no charge, dispute or unknown",7,4
+2024-12,5 zero or negative duration,1,60
+2024-12,5 zero or negative duration,2,34
+2024-12,5 zero or negative duration,6,87
+2024-12,5 zero or negative duration,7,224
+2024-12,6 under 1 minute or over 3 hours,1,4059
+2024-12,6 under 1 minute or over 3 hours,2,25149
+2024-12,6 under 1 minute or over 3 hours,6,96
+2024-12,7 under 0.2 or over 60 miles,1,11573
+2024-12,7 under 0.2 or over 60 miles,2,43854
+2024-12,8 implausible speed,1,1111
+2024-12,8 implausible speed,2,2739
+2024-12,8 implausible speed,6,2
+2024-12,kept: flex fare (upfront price),1,64123
+2024-12,kept: flex fare (upfront price),2,217858
+2024-12,kept: flex fare (upfront price),6,218
+2024-12,kept: metered,1,716311
+2024-12,kept: metered,2,2401790
+2025-01,1 pickup outside the file month,2,22
+2025-01,2 unknown or out-of-city zone,1,13929
+2025-01,2 unknown or out-of-city zone,2,14423
+2025-01,2 unknown or out-of-city zone,6,1
+2025-01,2 unknown or out-of-city zone,7,4
+2025-01,"3 refund, void or zero fare",1,572
+2025-01,"3 refund, void or zero fare",2,144128
+2025-01,"3 refund, void or zero fare",6,7
+2025-01,"4 no charge, dispute or unknown",1,12786
+2025-01,"4 no charge, dispute or unknown",2,40632
+2025-01,"4 no charge, dispute or unknown",7,24
+2025-01,5 zero or negative duration,1,69
+2025-01,5 zero or negative duration,2,38
+2025-01,5 zero or negative duration,6,121
+2025-01,5 zero or negative duration,7,1178
+2025-01,6 under 1 minute or over 3 hours,1,3314
+2025-01,6 under 1 minute or over 3 hours,2,19889
+2025-01,6 under 1 minute or over 3 hours,6,130
+2025-01,7 under 0.2 or over 60 miles,1,9304
+2025-01,7 under 0.2 or over 60 miles,2,57414
+2025-01,8 implausible speed,1,463
+2025-01,8 implausible speed,2,418
+2025-01,8 implausible speed,6,1
+2025-01,kept: flex fare (upfront price),1,84915
+2025-01,kept: flex fare (upfront price),2,317265
+2025-01,kept: flex fare (upfront price),6,229
+2025-01,kept: metered,1,628319
+2025-01,kept: metered,2,2125631
+2025-02,1 pickup outside the file month,2,31
+2025-02,2 unknown or out-of-city zone,1,11498
+2025-02,2 unknown or out-of-city zone,2,13503
+2025-02,2 unknown or out-of-city zone,7,7
+2025-02,"3 refund, void or zero fare",1,433
+2025-02,"3 refund, void or zero fare",2,182864
+2025-02,"3 refund, void or zero fare",6,2
+2025-02,"4 no charge, dispute or unknown",1,12180
+2025-02,"4 no charge, dispute or unknown",2,39532
+2025-02,"4 no charge, dispute or unknown",7,161
+2025-02,5 zero or negative duration,1,69
+2025-02,5 zero or negative duration,2,35
+2025-02,5 zero or negative duration,6,88
+2025-02,5 zero or negative duration,7,4252
+2025-02,6 under 1 minute or over 3 hours,1,3045
+2025-02,6 under 1 minute or over 3 hours,2,18556
+2025-02,6 under 1 minute or over 3 hours,6,80
+2025-02,7 under 0.2 or over 60 miles,1,7893
+2025-02,7 under 0.2 or over 60 miles,2,70724
+2025-02,8 implausible speed,1,624
+2025-02,8 implausible speed,2,581
+2025-02,8 implausible speed,6,3
+2025-02,kept: flex fare (upfront price),1,109155
+2025-02,kept: flex fare (upfront price),2,504831
+2025-02,kept: flex fare (upfront price),6,157
+2025-02,kept: metered,1,610093
+2025-02,kept: metered,2,1987146
+2025-03,1 pickup outside the file month,2,33
+2025-03,2 unknown or out-of-city zone,1,11907
+2025-03,2 unknown or out-of-city zone,2,16414
+2025-03,2 unknown or out-of-city zone,7,94
+2025-03,"3 refund, void or zero fare",1,572
+2025-03,"3 refund, void or zero fare",2,208706
+2025-03,"3 refund, void or zero fare",6,6
+2025-03,"4 no charge, dispute or unknown",1,14296
+2025-03,"4 no charge, dispute or unknown",2,50900
+2025-03,"4 no charge, dispute or unknown",7,270
+2025-03,5 zero or negative duration,1,83
+2025-03,5 zero or negative duration,2,45
+2025-03,5 zero or negative duration,6,75
+2025-03,5 zero or negative duration,7,21117
+2025-03,6 under 1 minute or over 3 hours,1,3468
+2025-03,6 under 1 minute or over 3 hours,2,23182
+2025-03,6 under 1 minute or over 3 hours,6,93
+2025-03,7 under 0.2 or over 60 miles,1,9632
+2025-03,7 under 0.2 or over 60 miles,2,69735
+2025-03,8 implausible speed,1,543
+2025-03,8 implausible speed,2,832
+2025-03,8 implausible speed,6,2
+2025-03,kept: flex fare (upfront price),1,129238
+2025-03,kept: flex fare (upfront price),2,580994
+2025-03,kept: flex fare (upfront price),6,158
+2025-03,kept: metered,1,664655
+2025-03,kept: metered,2,2338207
+2025-04,1 pickup outside the file month,2,7
+2025-04,2 unknown or out-of-city zone,1,11232
+2025-04,2 unknown or out-of-city zone,2,17785
+2025-04,2 unknown or out-of-city zone,7,83
+2025-04,"3 refund, void or zero fare",1,551
+2025-04,"3 refund, void or zero fare",2,186357
+2025-04,"3 refund, void or zero fare",6,28
+2025-04,"4 no charge, dispute or unknown",1,14303
+2025-04,"4 no charge, dispute or unknown",2,54059
+2025-04,"4 no charge, dispute or unknown",7,481
+2025-04,5 zero or negative duration,1,81
+2025-04,5 zero or negative duration,2,42
+2025-04,5 zero or negative duration,6,149
+2025-04,5 zero or negative duration,7,33280
+2025-04,6 under 1 minute or over 3 hours,1,4363
+2025-04,6 under 1 minute or over 3 hours,2,22889
+2025-04,6 under 1 minute or over 3 hours,6,142
+2025-04,7 under 0.2 or over 60 miles,1,8191
+2025-04,7 under 0.2 or over 60 miles,2,57812
+2025-04,8 implausible speed,1,376
+2025-04,8 implausible speed,2,805
+2025-04,8 implausible speed,6,7
+2025-04,kept: flex fare (upfront price),1,114663
+2025-04,kept: flex fare (upfront price),2,463898
+2025-04,kept: flex fare (upfront price),6,219
+2025-04,kept: metered,1,646987
+2025-04,kept: metered,2,2331763
+2025-05,1 pickup outside the file month,2,24
+2025-05,2 unknown or out-of-city zone,1,12607
+2025-05,2 unknown or out-of-city zone,2,22022
+2025-05,2 unknown or out-of-city zone,6,2
+2025-05,2 unknown or out-of-city zone,7,140
+2025-05,"3 refund, void or zero fare",1,531
+2025-05,"3 refund, void or zero fare",2,325066
+2025-05,"3 refund, void or zero fare",6,14
+2025-05,"4 no charge, dispute or unknown",1,14926
+2025-05,"4 no charge, dispute or unknown",2,58252
+2025-05,"4 no charge, dispute or unknown",7,802
+2025-05,5 zero or negative duration,1,84
+2025-05,5 zero or negative duration,2,60
+2025-05,5 zero or negative duration,6,95
+2025-05,5 zero or negative duration,7,62319
+2025-05,6 under 1 minute or over 3 hours,1,4624
+2025-05,6 under 1 minute or over 3 hours,2,25879
+2025-05,6 under 1 minute or over 3 hours,6,91
+2025-05,7 under 0.2 or over 60 miles,1,7495
+2025-05,7 under 0.2 or over 60 miles,2,96105
+2025-05,8 implausible speed,1,523
+2025-05,8 implausible speed,2,1328
+2025-05,8 implausible speed,6,4
+2025-05,kept: flex fare (upfront price),1,159520
+2025-05,kept: flex fare (upfront price),2,695719
+2025-05,kept: flex fare (upfront price),6,230
+2025-05,kept: metered,1,688721
+2025-05,kept: metered,2,2414662
+2025-06,1 pickup outside the file month,2,20
+2025-06,2 unknown or out-of-city zone,1,11869
+2025-06,2 unknown or out-of-city zone,2,20954
+2025-06,2 unknown or out-of-city zone,6,4
+2025-06,2 unknown or out-of-city zone,7,188
+2025-06,"3 refund, void or zero fare",1,594
+2025-06,"3 refund, void or zero fare",2,275348
+2025-06,"3 refund, void or zero fare",6,81
+2025-06,"4 no charge, dispute or unknown",1,13970
+2025-06,"4 no charge, dispute or unknown",2,55310
+2025-06,"4 no charge, dispute or unknown",7,829
+2025-06,5 zero or negative duration,1,41
+2025-06,5 zero or negative duration,2,36
+2025-06,5 zero or negative duration,6,224
+2025-06,5 zero or negative duration,7,66556
+2025-06,6 under 1 minute or over 3 hours,1,4588
+2025-06,6 under 1 minute or over 3 hours,2,24942
+2025-06,6 under 1 minute or over 3 hours,6,237
+2025-06,7 under 0.2 or over 60 miles,1,6055
+2025-06,7 under 0.2 or over 60 miles,2,98912
+2025-06,8 implausible speed,1,526
+2025-06,8 implausible speed,2,1405
+2025-06,8 implausible speed,6,5
+2025-06,kept: flex fare (upfront price),1,163883
+2025-06,kept: flex fare (upfront price),2,747766
+2025-06,kept: flex fare (upfront price),6,965
+2025-06,kept: metered,1,629325
+2025-06,kept: metered,2,2198327
+2025-07,1 pickup outside the file month,2,7
+2025-07,2 unknown or out-of-city zone,1,9422
+2025-07,2 unknown or out-of-city zone,2,22320
+2025-07,2 unknown or out-of-city zone,6,5
+2025-07,2 unknown or out-of-city zone,7,167
+2025-07,"3 refund, void or zero fare",1,525
+2025-07,"3 refund, void or zero fare",2,246019
+2025-07,"3 refund, void or zero fare",6,116
+2025-07,"4 no charge, dispute or unknown",1,13616
+2025-07,"4 no charge, dispute or unknown",2,57675
+2025-07,"4 no charge, dispute or unknown",7,645
+2025-07,5 zero or negative duration,1,22
+2025-07,5 zero or negative duration,2,41
+2025-07,5 zero or negative duration,7,54626
+2025-07,6 under 1 minute or over 3 hours,1,4583
+2025-07,6 under 1 minute or over 3 hours,2,23794
+2025-07,6 under 1 minute or over 3 hours,6,22
+2025-07,7 under 0.2 or over 60 miles,1,5194
+2025-07,7 under 0.2 or over 60 miles,2,89304
+2025-07,8 implausible speed,1,402
+2025-07,8 implausible speed,2,1114
+2025-07,8 implausible speed,6,2
+2025-07,kept: flex fare (upfront price),1,139273
+2025-07,kept: flex fare (upfront price),2,638671
+2025-07,kept: flex fare (upfront price),6,2179
+2025-07,kept: metered,1,552058
+2025-07,kept: metered,2,2037161
+2025-08,1 pickup outside the file month,2,17
+2025-08,2 unknown or out-of-city zone,1,8668
+2025-08,2 unknown or out-of-city zone,2,23223
+2025-08,2 unknown or out-of-city zone,7,198
+2025-08,"3 refund, void or zero fare",1,523
+2025-08,"3 refund, void or zero fare",2,259821
+2025-08,"3 refund, void or zero fare",6,137
+2025-08,"4 no charge, dispute or unknown",1,13402
+2025-08,"4 no charge, dispute or unknown",2,58666
+2025-08,"4 no charge, dispute or unknown",7,710
+2025-08,5 zero or negative duration,1,23
+2025-08,5 zero or negative duration,2,32
+2025-08,5 zero or negative duration,7,46368
+2025-08,6 under 1 minute or over 3 hours,1,4793
+2025-08,6 under 1 minute or over 3 hours,2,25041
+2025-08,6 under 1 minute or over 3 hours,6,8
+2025-08,7 under 0.2 or over 60 miles,1,3918
+2025-08,7 under 0.2 or over 60 miles,2,67873
+2025-08,8 implausible speed,1,504
+2025-08,8 implausible speed,2,742
+2025-08,8 implausible speed,6,6
+2025-08,kept: flex fare (upfront price),1,92759
+2025-08,kept: flex fare (upfront price),2,540831
+2025-08,kept: flex fare (upfront price),6,2429
+2025-08,kept: metered,1,531978
+2025-08,kept: metered,2,1891421
+2025-09,1 pickup outside the file month,2,7
+2025-09,2 unknown or out-of-city zone,1,9687
+2025-09,2 unknown or out-of-city zone,2,22222
+2025-09,2 unknown or out-of-city zone,6,1
+2025-09,2 unknown or out-of-city zone,7,164
+2025-09,"3 refund, void or zero fare",1,583
+2025-09,"3 refund, void or zero fare",2,251922
+2025-09,"3 refund, void or zero fare",6,205
+2025-09,"4 no charge, dispute or unknown",1,13227
+2025-09,"4 no charge, dispute or unknown",2,59365
+2025-09,"4 no charge, dispute or unknown",7,887
+2025-09,5 zero or negative duration,1,32
+2025-09,5 zero or negative duration,2,24
+2025-09,5 zero or negative duration,7,55532
+2025-09,6 under 1 minute or over 3 hours,1,5027
+2025-09,6 under 1 minute or over 3 hours,2,27357
+2025-09,6 under 1 minute or over 3 hours,6,9
+2025-09,7 under 0.2 or over 60 miles,1,4388
+2025-09,7 under 0.2 or over 60 miles,2,91424
+2025-09,8 implausible speed,1,938
+2025-09,8 implausible speed,2,2014
+2025-09,8 implausible speed,6,1
+2025-09,kept: flex fare (upfront price),1,132970
+2025-09,kept: flex fare (upfront price),2,669804
+2025-09,kept: flex fare (upfront price),6,2636
+2025-09,kept: metered,1,650695
+2025-09,kept: metered,2,2249894
+2025-10,1 pickup outside the file month,2,13
+2025-10,2 unknown or out-of-city zone,1,11352
+2025-10,2 unknown or out-of-city zone,2,21987
+2025-10,2 unknown or out-of-city zone,6,2
+2025-10,2 unknown or out-of-city zone,7,204
+2025-10,"3 refund, void or zero fare",1,523
+2025-10,"3 refund, void or zero fare",2,320684
+2025-10,"3 refund, void or zero fare",6,308
+2025-10,"4 no charge, dispute or unknown",1,13913
+2025-10,"4 no charge, dispute or unknown",2,51538
+2025-10,"4 no charge, dispute or unknown",7,693
+2025-10,5 zero or negative duration,1,30
+2025-10,5 zero or negative duration,2,34
+2025-10,5 zero or negative duration,7,66463
+2025-10,6 under 1 minute or over 3 hours,1,5310
+2025-10,6 under 1 minute or over 3 hours,2,28693
+2025-10,6 under 1 minute or over 3 hours,6,6
+2025-10,7 under 0.2 or over 60 miles,1,4313
+2025-10,7 under 0.2 or over 60 miles,2,80032
+2025-10,8 implausible speed,1,889
+2025-10,8 implausible speed,2,1464
+2025-10,8 implausible speed,6,3
+2025-10,kept: flex fare (upfront price),1,136057
+2025-10,kept: flex fare (upfront price),2,525112
+2025-10,kept: flex fare (upfront price),6,3495
+2025-10,kept: metered,1,704838
+2025-10,kept: metered,2,2450743
+2025-11,1 pickup outside the file month,2,24
+2025-11,2 unknown or out-of-city zone,1,10689
+2025-11,2 unknown or out-of-city zone,2,20219
+2025-11,2 unknown or out-of-city zone,6,7
+2025-11,2 unknown or out-of-city zone,7,175
+2025-11,"3 refund, void or zero fare",1,415
+2025-11,"3 refund, void or zero fare",2,394784
+2025-11,"3 refund, void or zero fare",6,367
+2025-11,"4 no charge, dispute or unknown",1,12690
+2025-11,"4 no charge, dispute or unknown",2,36457
+2025-11,"4 no charge, dispute or unknown",7,668
+2025-11,5 zero or negative duration,1,353
+2025-11,5 zero or negative duration,2,1040
+2025-11,5 zero or negative duration,7,59200
+2025-11,6 under 1 minute or over 3 hours,1,4798
+2025-11,6 under 1 minute or over 3 hours,2,26838
+2025-11,6 under 1 minute or over 3 hours,6,12
+2025-11,7 under 0.2 or over 60 miles,1,4107
+2025-11,7 under 0.2 or over 60 miles,2,64960
+2025-11,8 implausible speed,1,903
+2025-11,8 implausible speed,2,1387
+2025-11,8 implausible speed,6,4
+2025-11,kept: flex fare (upfront price),1,135090
+2025-11,kept: flex fare (upfront price),2,470012
+2025-11,kept: flex fare (upfront price),6,3843
+2025-11,kept: metered,1,652288
+2025-11,kept: metered,2,2280114
+2025-12,1 pickup outside the file month,2,9
+2025-12,2 unknown or out-of-city zone,1,10719
+2025-12,2 unknown or out-of-city zone,2,21374
+2025-12,2 unknown or out-of-city zone,6,4
+2025-12,2 unknown or out-of-city zone,7,180
+2025-12,"3 refund, void or zero fare",1,481
+2025-12,"3 refund, void or zero fare",2,48973
+2025-12,"3 refund, void or zero fare",6,439
+2025-12,"4 no charge, dispute or unknown",1,13684
+2025-12,"4 no charge, dispute or unknown",2,36653
+2025-12,"4 no charge, dispute or unknown",7,787
+2025-12,5 zero or negative duration,1,34
+2025-12,5 zero or negative duration,2,101
+2025-12,5 zero or negative duration,6,1
+2025-12,5 zero or negative duration,7,56449
+2025-12,6 under 1 minute or over 3 hours,1,5476
+2025-12,6 under 1 minute or over 3 hours,2,29468
+2025-12,6 under 1 minute or over 3 hours,6,8
+2025-12,7 under 0.2 or over 60 miles,1,5277
+2025-12,7 under 0.2 or over 60 miles,2,146595
+2025-12,8 implausible speed,1,1174
+2025-12,8 implausible speed,2,3636
+2025-12,8 implausible speed,6,4
+2025-12,kept: flex fare (upfront price),1,144020
+2025-12,kept: flex fare (upfront price),2,905388
+2025-12,kept: flex fare (upfront price),6,4073
+2025-12,kept: metered,1,644556
+2025-12,kept: metered,2,2225443
